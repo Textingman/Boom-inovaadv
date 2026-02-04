@@ -48,11 +48,11 @@ export default function HomePage() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center">
           <h1 className="text-5xl font-extrabold text-[#2F3A40] sm:text-6xl md:text-7xl">
-            Verify Your Customers
-            <span className="block text-[#3B82F6]">With Confidence</span>
+            Authenticate Users
+            <span className="block text-[#3B82F6]">Instantly & Securely</span>
           </h1>
           <p className="mt-6 max-w-2xl mx-auto text-xl text-[#6B7280]">
-            Send verification and notifications easily. Ensure your customers are who they say they are with our SMS verification service.
+            Deliver instant SMS authentication and alerts. Confirm user identities seamlessly with our reliable verification platform.
           </p>
           <div className="mt-10 flex justify-center gap-4">
             <Link
@@ -74,9 +74,9 @@ export default function HomePage() {
       {/* Features Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-[#2F3A40]">Why Choose Inova Adv?</h2>
+          <h2 className="text-4xl font-bold text-[#2F3A40]">Why Partner With Us?</h2>
           <p className="mt-4 text-xl text-[#6B7280]">
-            Trusted by businesses to verify customer identity and improve engagement
+            Businesses rely on us for secure identity authentication and enhanced user interaction
           </p>
         </div>
 
@@ -87,10 +87,10 @@ export default function HomePage() {
               <CheckCircle className="w-12 h-12 text-[#3B82F6]" />
             </div>
             <h3 className="text-xl font-semibold text-[#2F3A40] text-center mb-3">
-              Easy Verification
+              Seamless Authentication
             </h3>
             <p className="text-[#6B7280] text-center">
-              Simple, user-friendly verification flow that customers can complete in seconds.
+              Intuitive verification process that users complete effortlessly within moments.
             </p>
           </div>
 
@@ -100,10 +100,10 @@ export default function HomePage() {
               <Zap className="w-12 h-12 text-[#3B82F6]" />
             </div>
             <h3 className="text-xl font-semibold text-[#2F3A40] text-center mb-3">
-              Lightning Fast
+              Blazing Speed
             </h3>
             <p className="text-[#6B7280] text-center">
-              Optimized for speed with page loads under 2 seconds, even on mobile networks.
+              Ultra-fast performance delivering sub-2-second response times across all mobile carriers.
             </p>
           </div>
 
@@ -113,10 +113,10 @@ export default function HomePage() {
               <Users className="w-12 h-12 text-[#3B82F6]" />
             </div>
             <h3 className="text-xl font-semibold text-[#2F3A40] text-center mb-3">
-              Multi-Brand Support
+              Flexible Branding
             </h3>
             <p className="text-[#6B7280] text-center">
-              Support multiple brands with customizable styling and white-label options.
+              Manage multiple brands effortlessly with fully customizable themes and white-label capabilities.
             </p>
           </div>
         </div>
@@ -126,9 +126,9 @@ export default function HomePage() {
       <section className="bg-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-[#2F3A40]">Our Solutions</h2>
+            <h2 className="text-4xl font-bold text-[#2F3A40]">What We Offer</h2>
             <p className="mt-4 text-xl text-[#6B7280]">
-              Streamline your verification and engagement process
+              Simplify authentication and boost user engagement effortlessly
             </p>
           </div>
 
@@ -137,25 +137,25 @@ export default function HomePage() {
             <div className="space-y-12">
               {/* Solution 1 */}
               <div>
-                <h3 className="text-2xl font-bold text-[#2F3A40] mb-4">Identity Verification</h3>
+                <h3 className="text-2xl font-bold text-[#2F3A40] mb-4">User Authentication</h3>
                 <p className="text-lg text-[#6B7280] leading-relaxed">
-                  Begin by dispatching a straightforward verification request to your users, aiming to confirm their identity efficiently.
+                  Send streamlined authentication requests that quickly validate user identities with minimal friction.
                 </p>
               </div>
 
               {/* Solution 2 */}
               <div>
-                <h3 className="text-2xl font-bold text-[#2F3A40] mb-4">Document Link</h3>
+                <h3 className="text-2xl font-bold text-[#2F3A40] mb-4">Secure Document Delivery</h3>
                 <p className="text-lg text-[#6B7280] leading-relaxed">
-                  Distribute document links directly to your users for electronic signatures. This method significantly enhances conversion rates compared to email and other communication channels.
+                  Share document links instantly via SMS for digital signatures. This approach dramatically improves completion rates versus traditional email delivery.
                 </p>
               </div>
 
               {/* Solution 3 */}
               <div>
-                <h3 className="text-2xl font-bold text-[#2F3A40] mb-4">Form Submission Process</h3>
+                <h3 className="text-2xl font-bold text-[#2F3A40] mb-4">Automated Follow-Ups</h3>
                 <p className="text-lg text-[#6B7280] leading-relaxed">
-                  Re-engage customers who have abandoned the form process by setting up automated messages designed to recapture their interest and complete their submissions.
+                  Reconnect with users who left forms incomplete through intelligent automated reminders that drive completion and boost conversions.
                 </p>
               </div>
             </div>
@@ -179,10 +179,10 @@ export default function HomePage() {
         <div className="bg-[#3B82F6] rounded-2xl shadow-2xl overflow-hidden">
           <div className="px-6 py-16 sm:px-12 sm:py-20 text-center">
             <h2 className="text-4xl font-bold text-white mb-6">
-              Ready to Get Started?
+              Ready to Transform Your Authentication?
             </h2>
             <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-              Join businesses that trust Inova Adv for SMS verification and improved customer engagement.
+              Join forward-thinking companies leveraging Inova Adv for secure SMS authentication and superior user experiences.
             </p>
             <Link
               href="/signup"
@@ -201,7 +201,7 @@ export default function HomePage() {
             <div>
               <h3 className="text-xl font-bold mb-4">Inova Adv</h3>
               <p className="text-gray-400">
-                SMS verification for businesses.
+                Secure SMS authentication solutions.
               </p>
             </div>
             <div>

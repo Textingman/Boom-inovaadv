@@ -82,10 +82,10 @@ export default function SignupPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl font-extrabold text-[#2F3A40] mb-4">
-              Get Started with Inova Adv
+              Begin Your Journey with Inova Adv
             </h1>
             <p className="text-xl text-[#6B7280] max-w-2xl mx-auto">
-              Fill out the form below and we'll get back to you within 24 hours to set up your account.
+              Complete the form below and our team will reach out within 24 hours to activate your account.
             </p>
           </div>
         </div>
@@ -101,9 +101,9 @@ export default function SignupPage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <h2 className="text-3xl font-bold text-[#2F3A40] mb-4">Thank You!</h2>
+              <h2 className="text-3xl font-bold text-[#2F3A40] mb-4">Request Received!</h2>
               <p className="text-lg text-[#6B7280] mb-8">
-                We've received your request. Our team will contact you within 24 hours to get you started.
+                Your submission has been received. Our team will reach out within 24 hours to begin your onboarding.
               </p>
               <Link
                 href="/"
@@ -115,9 +115,9 @@ export default function SignupPage() {
           ) : (
             <>
               <div className="mb-8">
-                <h2 className="text-2xl font-bold text-[#2F3A40] mb-2">Sign Up for Inova Adv</h2>
+                <h2 className="text-2xl font-bold text-[#2F3A40] mb-2">Register for Inova Adv</h2>
                 <p className="text-[#6B7280]">
-                  Complete the form below to start verifying your customers with confidence.
+                  Fill out this form to begin authenticating your users with certainty.
                 </p>
               </div>
 
@@ -212,7 +212,7 @@ export default function SignupPage() {
                 {/* Message Field */}
                 <div>
                   <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
-                    Tell us about your use case (Optional)
+                    Describe your requirements (Optional)
                   </label>
                   <textarea
                     id="message"
@@ -221,7 +221,7 @@ export default function SignupPage() {
                     value={formData.message}
                     onChange={handleChange}
                     className="block w-full px-3 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#2563eb] focus:border-transparent"
-                    placeholder="How do you plan to use Inova Adv?"
+                    placeholder="What are your authentication needs?"
                   />
                 </div>
 
@@ -333,7 +333,7 @@ export default function SignupPage() {
             <div>
               <h3 className="text-xl font-bold mb-4">Inova Adv</h3>
               <p className="text-gray-400">
-                Carrier-compliant SMS verification for businesses.
+                Secure SMS authentication solutions.
               </p>
             </div>
             <div>

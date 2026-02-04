@@ -48,10 +48,10 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-5xl font-extrabold text-[#2F3A40] mb-6">
-              About Inova Adv
+              Who We Are
             </h1>
             <p className="text-xl text-[#6B7280] max-w-3xl mx-auto">
-              We're building the future of SMS verification, helping businesses verify customer identity while improving delivery rates.
+              We're pioneering next-generation SMS authentication, empowering organizations to validate user identities while maximizing message deliverability.
             </p>
           </div>
         </div>
@@ -61,15 +61,15 @@ export default function AboutPage() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 className="text-4xl font-bold text-[#2F3A40] mb-6">Our Mission</h2>
+            <h2 className="text-4xl font-bold text-[#2F3A40] mb-6">Our Purpose</h2>
             <p className="text-lg text-[#6B7280] mb-4">
-              Inova Adv was created to solve a critical problem: businesses need a reliable way to verify customer identity via SMS while maintaining high delivery rates.
+              Inova Adv emerged to address a fundamental challenge: organizations require dependable SMS-based identity validation without compromising delivery performance.
             </p>
             <p className="text-lg text-[#6B7280] mb-4">
-              We provide a simple, secure verification platform that acts as a trusted intermediary between businesses and their customers.
+              We deliver an intuitive, fortified authentication platform serving as the reliable bridge connecting businesses with their users.
             </p>
             <p className="text-lg text-[#6B7280]">
-              Our goal is to make SMS verification seamless, secure, and accessible for businesses of all sizes.
+              Our mission is making SMS authentication frictionless, protected, and attainable for organizations across every scale.
             </p>
           </div>
           <div className="bg-gray-50 rounded-2xl p-8">
@@ -79,9 +79,9 @@ export default function AboutPage() {
                   <Target className="w-8 h-8 text-[#3B82F6]" />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Focused on Quality</h3>
+                  <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Quality-Driven</h3>
                   <p className="text-[#6B7280]">
-                    Built from the ground up to meet industry standards and best practices.
+                    Engineered from inception to exceed industry benchmarks and professional standards.
                   </p>
                 </div>
               </div>
@@ -90,9 +90,9 @@ export default function AboutPage() {
                   <Shield className="w-8 h-8 text-[#3B82F6]" />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Security First</h3>
+                  <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Security-Centric</h3>
                   <p className="text-[#6B7280]">
-                    Your customers' data is protected with enterprise-grade security measures.
+                    User information safeguarded through enterprise-level protection protocols.
                   </p>
                 </div>
               </div>
@@ -101,9 +101,9 @@ export default function AboutPage() {
                   <Zap className="w-8 h-8 text-[#3B82F6]" />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Lightning Fast</h3>
+                  <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Exceptionally Swift</h3>
                   <p className="text-[#6B7280]">
-                    Optimized for speed with sub-2-second page loads on mobile networks.
+                    Performance-tuned for under 2-second load times across cellular networks.
                   </p>
                 </div>
               </div>
@@ -116,9 +116,9 @@ export default function AboutPage() {
       {/* Why Choose Us Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-[#2F3A40] mb-4">Why Businesses Choose Us</h2>
+          <h2 className="text-4xl font-bold text-[#2F3A40] mb-4">Why Organizations Select Us</h2>
           <p className="text-xl text-[#6B7280]">
-            Trusted by companies that value compliance, security, and reliability
+            Preferred by enterprises prioritizing regulatory adherence, data protection, and dependability
           </p>
         </div>
 
@@ -127,9 +127,9 @@ export default function AboutPage() {
             <div className="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <Shield className="w-8 h-8 text-[#3B82F6]" />
             </div>
-            <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Reliable Service</h3>
+            <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Dependable Platform</h3>
             <p className="text-[#6B7280]">
-              Built with industry best practices for maximum reliability.
+              Constructed using proven methodologies ensuring optimal uptime.
             </p>
           </div>
 
@@ -137,9 +137,9 @@ export default function AboutPage() {
             <div className="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <Users className="w-8 h-8 text-[#3B82F6]" />
             </div>
-            <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Multi-Brand Support</h3>
+            <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Multi-Brand Capability</h3>
             <p className="text-[#6B7280]">
-              Support multiple brands with customizable styling options.
+              Accommodate diverse brands through adaptable design configurations.
             </p>
           </div>
 
@@ -147,9 +147,9 @@ export default function AboutPage() {
             <div className="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <Zap className="w-8 h-8 text-[#3B82F6]" />
             </div>
-            <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">High Performance</h3>
+            <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Superior Performance</h3>
             <p className="text-[#6B7280]">
-              Global CDN ensures fast load times worldwide.
+              Worldwide content delivery network guarantees rapid response globally.
             </p>
           </div>
 
@@ -157,9 +157,9 @@ export default function AboutPage() {
             <div className="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <Target className="w-8 h-8 text-[#3B82F6]" />
             </div>
-            <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Easy Integration</h3>
+            <h3 className="text-lg font-semibold text-[#2F3A40] mb-2">Effortless Integration</h3>
             <p className="text-[#6B7280]">
-              Simple URL-based integration with comprehensive documentation.
+              Straightforward URL-driven setup supported by thorough documentation.
             </p>
           </div>
         </div>
@@ -169,10 +169,10 @@ export default function AboutPage() {
       <section className="bg-[#3B82F6] py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl font-bold text-white mb-6">
-            Ready to Get Started?
+            Ready to Begin?
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join businesses that trust Inova Adv for SMS verification.
+            Partner with organizations trusting Inova Adv for SMS authentication excellence.
           </p>
           <Link
             href="/signup"
@@ -190,7 +190,7 @@ export default function AboutPage() {
             <div>
               <h3 className="text-xl font-bold mb-4">Inova Adv</h3>
               <p className="text-gray-400">
-                SMS verification for businesses.
+                Secure SMS authentication solutions.
               </p>
             </div>
             <div>
