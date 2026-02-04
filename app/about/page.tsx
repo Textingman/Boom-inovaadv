@@ -226,7 +226,7 @@ export default function AboutPage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-gray-400">
-                support@inovaadv.com
+                support@inovaverify.com
               </p>
             </div>
           </div>

@@ -276,8 +276,8 @@ export default function TermsPage() {
             If you have any questions about these Terms, please contact us:
           </p>
           <div className="bg-gray-50 rounded-lg p-6 mb-8">
-            <p className="text-[#6B7280] mb-2"><strong>Email:</strong> <a href="mailto:legal@inovaadv.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">legal@inovaadv.com</a></p>
-            <p className="text-[#6B7280] mb-2"><strong>Support:</strong> <a href="mailto:support@inovaadv.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">support@inovaadv.com</a></p>
+            <p className="text-[#6B7280] mb-2"><strong>Email:</strong> <a href="mailto:legal@inovaverify.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">legal@inovaverify.com</a></p>
+            <p className="text-[#6B7280] mb-2"><strong>Support:</strong> <a href="mailto:support@inovaverify.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">support@inovaverify.com</a></p>
             <p className="text-[#6B7280]"><strong>Website:</strong> <a href="/" className="text-[#3B82F6] hover:text-[#1d4ed8]">https://inovaadv.com</a></p>
           </div>
 
@@ -327,7 +327,7 @@ export default function TermsPage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-gray-400">
-                support@inovaadv.com
+                support@inovaverify.com
               </p>
             </div>
           </div>

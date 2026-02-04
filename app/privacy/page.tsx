@@ -156,7 +156,7 @@ export default function PrivacyPage() {
             <li><strong>Opt-out:</strong> Opt out of marketing communications</li>
           </ul>
           <p className="text-[#6B7280] mb-6">
-            To exercise these rights, please contact us at <a href="mailto:privacy@inovaadv.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">privacy@inovaadv.com</a>.
+            To exercise these rights, please contact us at <a href="mailto:privacy@inovaverify.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">privacy@inovaverify.com</a>.
           </p>
 
           <h2 className="text-2xl font-bold text-[#2F3A40] mt-8 mb-4">8. Cookies and Tracking Technologies</h2>
@@ -194,8 +194,8 @@ export default function PrivacyPage() {
             If you have any questions about this Privacy Policy or our privacy practices, please contact us:
           </p>
           <div className="bg-gray-50 rounded-lg p-6 mb-8">
-            <p className="text-[#6B7280] mb-2"><strong>Email:</strong> <a href="mailto:privacy@inovaadv.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">privacy@inovaadv.com</a></p>
-            <p className="text-[#6B7280] mb-2"><strong>Support:</strong> <a href="mailto:support@inovaadv.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">support@inovaadv.com</a></p>
+            <p className="text-[#6B7280] mb-2"><strong>Email:</strong> <a href="mailto:privacy@inovaverify.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">privacy@inovaverify.com</a></p>
+            <p className="text-[#6B7280] mb-2"><strong>Support:</strong> <a href="mailto:support@inovaverify.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">support@inovaverify.com</a></p>
             <p className="text-[#6B7280]"><strong>Website:</strong> <a href="/" className="text-[#3B82F6] hover:text-[#1d4ed8]">https://inovaadv.com</a></p>
           </div>
 
@@ -245,7 +245,7 @@ export default function PrivacyPage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-gray-400">
-                support@inovaadv.com
+                support@inovaverify.com
               </p>
             </div>
           </div>

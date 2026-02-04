@@ -236,7 +236,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-[#3B82F6] focus:ring-[#2563eb] border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="sms-consent" className="ml-3 text-sm leading-relaxed">
-                        By checking this box, you provide consent to receive automated SMS messages from Inova Adv. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@inovaadv.com. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you provide consent to receive automated SMS messages from Inova Adv. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@inovaverify.com. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -250,7 +250,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-[#3B82F6] focus:ring-[#2563eb] border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="call-consent" className="ml-3 text-sm leading-relaxed">
-                        By checking this box, you provide consent to receive automated customer care calls from Inova Adv. Call frequency varies and standard phone rates may apply. You may opt-out at any time by contacting support@inovaadv.com. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you provide consent to receive automated customer care calls from Inova Adv. Call frequency varies and standard phone rates may apply. You may opt-out at any time by contacting support@inovaverify.com. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -266,7 +266,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-[#3B82F6] focus:ring-[#2563eb] border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="account-notifications" className="ml-3 text-sm leading-relaxed text-gray-700">
-                        By checking this box, you consent to receive account notifications, service updates, and important information about your Inova Adv account via email and SMS. You may opt-out at any time by contacting support@inovaadv.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you consent to receive account notifications, service updates, and important information about your Inova Adv account via email and SMS. You may opt-out at any time by contacting support@inovaverify.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -369,7 +369,7 @@ export default function SignupPage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-gray-400">
-                support@inovaadv.com
+                support@inovaverify.com
               </p>
             </div>
           </div>
