@@ -12,7 +12,7 @@ export default function PrivacyPage() {
               <Link href="/" className="flex-shrink-0">
                 <Image 
                   src="/InovaLogo.png" 
-                  alt="Inova Adv" 
+                  alt="Inova Verify" 
                   width={500} 
                   height={167}
                   className="h-32 w-auto"
@@ -58,7 +58,7 @@ export default function PrivacyPage() {
           
           <h2 className="text-2xl font-bold text-[#2F3A40] mt-8 mb-4">1. Introduction</h2>
           <p className="text-[#6B7280] mb-6">
-            Inova Adv ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our SMS verification service and website.
+            Inova Verify ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our SMS verification service and website.
           </p>
 
           <h2 className="text-2xl font-bold text-[#2F3A40] mt-8 mb-4">2. Information We Collect</h2>
@@ -207,7 +207,7 @@ export default function PrivacyPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">Inova Adv</h3>
+              <h3 className="text-xl font-bold mb-4">Inova Verify</h3>
               <p className="text-gray-400">
                 Carrier-compliant SMS verification for businesses.
               </p>
@@ -250,7 +250,7 @@ export default function PrivacyPage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Inova Adv. All rights reserved.</p>
+            <p>&copy; 2025 Inova Verify. All rights reserved.</p>
           </div>
         </div>
       </footer>

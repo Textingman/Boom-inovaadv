@@ -47,7 +47,7 @@ export default function SignupPage() {
               <Link href="/" className="flex-shrink-0">
                 <Image 
                   src="/InovaLogo.png" 
-                  alt="Inova Adv" 
+                  alt="Inova Verify" 
                   width={500} 
                   height={167}
                   className="h-32 w-auto"
@@ -82,7 +82,7 @@ export default function SignupPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl font-extrabold text-[#2F3A40] mb-4">
-              Begin Your Journey with Inova Adv
+              Begin Your Journey with Inova Verify
             </h1>
             <p className="text-xl text-[#6B7280] max-w-2xl mx-auto">
               Complete the form below and our team will reach out within 24 hours to activate your account.
@@ -115,7 +115,7 @@ export default function SignupPage() {
           ) : (
             <>
               <div className="mb-8">
-                <h2 className="text-2xl font-bold text-[#2F3A40] mb-2">Register for Inova Adv</h2>
+                <h2 className="text-2xl font-bold text-[#2F3A40] mb-2">Register for Inova Verify</h2>
                 <p className="text-[#6B7280]">
                   Fill out this form to begin authenticating your users with certainty.
                 </p>
@@ -236,7 +236,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-[#3B82F6] focus:ring-[#2563eb] border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="sms-consent" className="ml-3 text-sm leading-relaxed">
-                        By checking this box, you provide consent to receive automated SMS messages from Inova Adv. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@inovaverify.com. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you provide consent to receive automated SMS messages from Inova Verify. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@inovaverify.com. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -250,7 +250,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-[#3B82F6] focus:ring-[#2563eb] border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="call-consent" className="ml-3 text-sm leading-relaxed">
-                        By checking this box, you provide consent to receive automated customer care calls from Inova Adv. Call frequency varies and standard phone rates may apply. You may opt-out at any time by contacting support@inovaverify.com. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you provide consent to receive automated customer care calls from Inova Verify. Call frequency varies and standard phone rates may apply. You may opt-out at any time by contacting support@inovaverify.com. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -266,7 +266,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-[#3B82F6] focus:ring-[#2563eb] border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="account-notifications" className="ml-3 text-sm leading-relaxed text-gray-700">
-                        By checking this box, you consent to receive account notifications, service updates, and important information about your Inova Adv account via email and SMS. You may opt-out at any time by contacting support@inovaverify.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you consent to receive account notifications, service updates, and important information about your Inova Verify account via email and SMS. You may opt-out at any time by contacting support@inovaverify.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -331,7 +331,7 @@ export default function SignupPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">Inova Adv</h3>
+              <h3 className="text-xl font-bold mb-4">Inova Verify</h3>
               <p className="text-gray-400">
                 Secure SMS authentication solutions.
               </p>
@@ -374,7 +374,7 @@ export default function SignupPage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Inova Adv. All rights reserved.</p>
+            <p>&copy; 2025 Inova Verify. All rights reserved.</p>
           </div>
         </div>
       </footer>

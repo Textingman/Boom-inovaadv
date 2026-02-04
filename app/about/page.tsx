@@ -13,7 +13,7 @@ export default function AboutPage() {
               <Link href="/" className="flex-shrink-0">
                 <Image 
                   src="/InovaLogo.png" 
-                  alt="Inova Adv" 
+                  alt="Inova Verify" 
                   width={500} 
                   height={167}
                   className="h-32 w-auto"
@@ -63,7 +63,7 @@ export default function AboutPage() {
           <div>
             <h2 className="text-4xl font-bold text-[#2F3A40] mb-6">Our Purpose</h2>
             <p className="text-lg text-[#6B7280] mb-4">
-              Inova Adv emerged to address a fundamental challenge: organizations require dependable SMS-based identity validation without compromising delivery performance.
+              Inova Verify emerged to address a fundamental challenge: organizations require dependable SMS-based identity validation without compromising delivery performance.
             </p>
             <p className="text-lg text-[#6B7280] mb-4">
               We deliver an intuitive, fortified authentication platform serving as the reliable bridge connecting businesses with their users.
@@ -172,7 +172,7 @@ export default function AboutPage() {
             Ready to Begin?
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Partner with organizations trusting Inova Adv for SMS authentication excellence.
+            Partner with organizations trusting Inova Verify for SMS authentication excellence.
           </p>
           <Link
             href="/signup"
@@ -188,7 +188,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">Inova Adv</h3>
+              <h3 className="text-xl font-bold mb-4">Inova Verify</h3>
               <p className="text-gray-400">
                 Secure SMS authentication solutions.
               </p>
@@ -231,7 +231,7 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Inova Adv. All rights reserved.</p>
+            <p>&copy; 2025 Inova Verify. All rights reserved.</p>
           </div>
         </div>
       </footer>
