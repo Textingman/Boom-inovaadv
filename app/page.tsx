@@ -239,6 +239,13 @@ export default function HomePage() {
               <p className="text-gray-400">
                 support@inovaverify.com
               </p>
+              <p className="text-gray-400 mt-2">
+                1309 Coffeen Avenue Suite 1200<br />
+                Sheridan, WY 82801
+              </p>
+              <p className="text-gray-400 mt-2">
+                <a href="tel:13073573729" className="hover:text-white">+1 (307) 357-3729</a>
+              </p>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
