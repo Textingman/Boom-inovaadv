@@ -244,7 +244,7 @@ export default function HomePage() {
                 Sheridan, WY 82801
               </p>
               <p className="text-gray-400 mt-2">
-                <a href="tel:13073573729" className="hover:text-white">+1 (307) 357-3729</a>
+                <a href="tel:+14133936089" className="hover:text-white">+1 (413) 393-6089</a>
               </p>
             </div>
           </div>
